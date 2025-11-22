@@ -108,6 +108,7 @@ For initial testing, you can use the following admin credentials:
 *   **Password:** `password` (This password is hashed in the database. You might need to re-hash it or use the `hash_password.php` script to create new admin users.)
 
 ## 🤝 Contributing
+##MUNJE FRITZ IS MY NAME SIR
 
 Contributions are welcome! Please feel free to fork the repository, create pull requests, or open issues for bugs and feature requests.
 
